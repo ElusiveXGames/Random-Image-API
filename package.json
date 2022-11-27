@@ -1,0 +1,19 @@
+{
+	"name": "RandomImageAPI",
+	"version": "1.0.0",
+	"dependencies": {
+		"axios": "^0.27.2",
+		"bcrypt": "^5.0.1",
+		"cors": "^2.8.5",
+		"express": "^4.18.1",
+		"ms": "^2.1.3",
+		"mysql2": "^2.3.3",
+		"nanoid": "^3.3.4",
+		"pg": "^8.7.3",
+		"sequelize": "^6.21.3",
+		"sqlite3": "^5.0.11"
+	},
+	"devDependencies": {
+		"@types/sequelize": "^4.28.14"
+	}
+}
