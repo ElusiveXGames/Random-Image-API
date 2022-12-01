@@ -1,3 +1,7 @@
+//This is an Image API in the works!
+// It worls 100% but i havent had the time to create Docs for it! So i will soon!
+
+
 const { version } = require("./package.json");
 const { Endpoint, Image, User, Session } = require("./database");
 const express = require("express");
